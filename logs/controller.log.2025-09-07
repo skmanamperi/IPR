@@ -1,0 +1,5 @@
+2025-09-07 21:21:13 | INFO | controller | args: Namespace(host='localhost', port=21001, dispatch_method='shortest_queue', ssl=False)
+2025-09-07 21:21:13 | ERROR | stderr | INFO:     Started server process [6756]
+2025-09-07 21:21:13 | ERROR | stderr | INFO:     Waiting for application startup.
+2025-09-07 21:21:13 | ERROR | stderr | INFO:     Application startup complete.
+2025-09-07 21:21:13 | ERROR | stderr | INFO:     Uvicorn running on http://localhost:21001 (Press CTRL+C to quit)
